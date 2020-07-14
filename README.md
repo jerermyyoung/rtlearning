@@ -30,5 +30,5 @@ Or see scripts (.sh files) for a quick start.
 - A comprehensive survey on AutoML from our group is [here](http://xxx.itp.ac.cn/abs/1810.13306).
 - Implementation of [Co-teaching](https://github.com/bhanML/Co-teaching) (the most important baseline in S2E).
 
-## New oppotunities
-- New oppotunities: interns, research assistant and researcher positions are avaliable. See [requirement](http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)
+## New Oppotunities
+- Interns, research assistant and researcher positions are avaliable. See [requirement](http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)
