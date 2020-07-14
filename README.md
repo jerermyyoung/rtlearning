@@ -1,8 +1,6 @@
 # S2E
 ICML'20: Searching to Exploit Memorization Effect in Learning from Corrupted Labels (PyTorch implementation).
 
-=======
-
 This is the code for the paper: [Searching to Exploit Memorization Effect in Learning from Corrupted Labels](https://arxiv.org/abs/1911.02377)
 Quanming Yao, Hansi Yang, Bo Han, Gang Niu, James T. Kwok.
 
@@ -28,6 +26,9 @@ python heng_100_main.py --noise_type symmetric --noise_rate 0.5 --num_workers 1 
 
 Or see scripts (.sh files) for a quick start.
 
-=======
-- A comprehensive survey on AutoML from our group is [here](http://xxx.itp.ac.cn/abs/1810.13306)
+## Relavent Resources
+- A comprehensive survey on AutoML from our group is [here](http://xxx.itp.ac.cn/abs/1810.13306).
+- Implementation of [Co-teaching](https://github.com/bhanML/Co-teaching) (the most important baseline in S2E).
+
+# New oppotunities
 - New oppotunities: interns, research assistant and researcher positions are avaliable ([requirement(http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)]).
