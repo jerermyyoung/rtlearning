@@ -2,7 +2,14 @@
 ICML'20: Searching to Exploit Memorization Effect in Learning from Corrupted Labels (PyTorch implementation).
 
 This is the code for the paper: [Searching to Exploit Memorization Effect in Learning from Corrupted Labels](https://arxiv.org/abs/1911.02377)
-Quanming Yao, Hansi Yang, Bo Han, Gang Niu, James T. Kwok.
+Quanming Yao, Hansi Yang, Bo Han, Gang Niu, James Kwok.
+
+@inproceedings{yang2019searching,
+  title={Searching to Exploit Memorization Effect in Learning from Corrupted Labels},
+  author={Yao, Quanming and Yang, Hansi and Han, Bo and Niu, Gang and Kwok, James},
+  booktitle={International Conference on Machine Learning},
+  year={2020}
+}
 
 ## Requirements
 Python = 3.7, PyTorch = 1.3.1, NumPy = 1.18.5, SciPy = 1.4.1
