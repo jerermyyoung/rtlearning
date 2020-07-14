@@ -31,4 +31,4 @@ Or see scripts (.sh files) for a quick start.
 - Implementation of [Co-teaching](https://github.com/bhanML/Co-teaching) (the most important baseline in S2E).
 
 # New oppotunities
-- New oppotunities: interns, research assistant and researcher positions are avaliable ([requirement(http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)]).
+- New oppotunities: interns, research assistant and researcher positions are avaliable. See [requirement(http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)]
