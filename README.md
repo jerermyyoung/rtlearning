@@ -4,15 +4,6 @@ ICML'20: Searching to Exploit Memorization Effect in Learning from Corrupted Lab
 This is the code for the paper: [Searching to Exploit Memorization Effect in Learning from Corrupted Labels](https://arxiv.org/abs/1911.02377)
 Quanming Yao, Hansi Yang, Bo Han, Gang Niu, James Kwok.
 
-```bash
-@inproceedings{s2e2020icml,
-  title={Searching to Exploit Memorization Effect in Learning from Corrupted Labels},
-  author={Yao, Quanming and Yang, Hansi and Han, Bo and Niu, Gang and Kwok, James},
-  booktitle={International Conference on Machine Learning},
-  year={2020}
-}
-```
-
 ## Requirements
 Python = 3.7, PyTorch = 1.3.1, NumPy = 1.18.5, SciPy = 1.4.1
 All packages can be installed by Conda.
@@ -34,6 +25,28 @@ python heng_100_main.py --noise_type symmetric --noise_rate 0.5 --num_workers 1 
 ```
 
 Or see scripts (.sh files) for a quick start.
+
+
+## Citation
+
+If you find this work helpful for your research, please cite the following paper:
+
+```
+@inproceedings{s2e2020icml,
+  title={Searching to Exploit Memorization Effect in Learning from Corrupted Labels},
+  author={Yao, Quanming and Yang, Hansi and Han, Bo and Niu, Gang and Kwok, James},
+  booktitle={International Conference on Machine Learning},
+  year={2020}
+}
+```
+```
+@TechReport{yao2018taking,
+  author      = {Yao, Quanming and Wang, Mengshuo},
+  institution = {arXiv preprint},
+  title       = {Taking Human out of Learning Applications: A Survey on Automated Machine Learning},
+  year        = {2018},
+}
+```
 
 ## Relavent resources
 - A comprehensive survey on AutoML from our group is [here](http://xxx.itp.ac.cn/abs/1810.13306).
